@@ -1,6 +1,7 @@
 {
   "ServerNames": [
     "TestServer",
+    "test",
     "ProductionServer"
   ],
   "IsTest": "test"
