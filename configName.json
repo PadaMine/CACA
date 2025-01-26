@@ -1,5 +1,7 @@
 {
-    "name": {
-        "test",
-    }
+  "ServerNames": [
+    "Test",
+    "TestServer",
+    "ProductionServer"
+  ]
 }
