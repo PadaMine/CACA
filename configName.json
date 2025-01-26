@@ -1,7 +1,7 @@
 {
   "ServerNames": [
-    "test",
     "TestServer",
     "ProductionServer"
-  ]
+  ],
+  "IsTest": "test"
 }
