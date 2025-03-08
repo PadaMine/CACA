@@ -1,8 +1,5 @@
 {
   "ServerNames": [
-    "NovaWorldV2",
-    "test",
-    "ProductionServer",
     "Swimplugin"
   ],
   "IsTest": "test"
