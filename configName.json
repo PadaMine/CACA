@@ -1,7 +1,7 @@
 {
   "ServerNames": [
     "Swimplugin",
-    "test"
+    "test",
   ],
   "IsTest": "test"
 }
